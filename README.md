@@ -1,7 +1,7 @@
 # Boilerplate: React with Webpack
 This is a starter project that uses webpack to transpile and bundle ES6 React code. 
 
-# Team :
+# Team Member:
 ** Jiho | Tian | Sparrow | Kason | Phatt **
 
 ## Setup
